@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/AvatarsDemo/KinectAvatarsDemo.unity
+- path: Assets/GesturesDemo/KinectGesturesDemo.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

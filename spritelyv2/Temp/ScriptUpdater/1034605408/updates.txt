@@ -1,0 +1,4 @@
+Temp/ScriptUpdater/1034605408\1135051784_InfraredSourceView.cs => Assets/Scripts/InfraredSourceView.cs
+Temp/ScriptUpdater/1034605408\885755071_ColorSourceView.cs => Assets/Scripts/ColorSourceView.cs
+Temp/ScriptUpdater/1034605408\1566329358_DepthSourceView.cs => Assets/Scripts/DepthSourceView.cs
+Temp/ScriptUpdater/1034605408\422312225_BodySourceView.cs => Assets/Scripts/BodySourceView.cs

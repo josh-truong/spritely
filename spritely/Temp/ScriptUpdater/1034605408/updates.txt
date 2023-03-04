@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/1034605408\233373164_PresentationScript.cs => Assets/GesturesDemo/Scripts/PresentationScript.cs

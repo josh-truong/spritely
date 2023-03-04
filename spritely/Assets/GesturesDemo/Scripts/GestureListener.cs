@@ -1,12 +1,11 @@
 using UnityEngine;
 using System.Collections;
 using System;
-using UnityEngine.UI;
 
 public class GestureListener : MonoBehaviour, KinectGestures.GestureListenerInterface
 {
 	// GUI Text to display the gesture messages.
-	public Text GestureInfo;
+	public GUIText GestureInfo;
 	
 	private bool swipeLeft;
 	private bool swipeRight;
@@ -45,7 +44,7 @@ public class GestureListener : MonoBehaviour, KinectGestures.GestureListenerInte
 
 		if(GestureInfo != null)
 		{
-			GestureInfo.text = "Swipe left or right to change the slides.";
+			GestureInfo.guiText.text = "Swipe left or right to change the slides.";
 		}
 	}
 	
@@ -53,7 +52,7 @@ public class GestureListener : MonoBehaviour, KinectGestures.GestureListenerInte
 	{
 		if(GestureInfo != null)
 		{
-			GestureInfo.text = string.Empty;
+			GestureInfo.guiText.text = string.Empty;
 		}
 	}
 
@@ -69,7 +68,7 @@ public class GestureListener : MonoBehaviour, KinectGestures.GestureListenerInte
 		string sGestureText = gesture + " detected";
 		if(GestureInfo != null)
 		{
-			GestureInfo.text = sGestureText;
+			GestureInfo.guiText.text = sGestureText;
 		}
 		
 		if(gesture == KinectGestures.Gestures.SwipeLeft)
