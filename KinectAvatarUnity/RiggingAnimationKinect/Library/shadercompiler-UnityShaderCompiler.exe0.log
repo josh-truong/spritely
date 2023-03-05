@@ -1,0 +1,54 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.11f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.11f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=6371 outsize=6373 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6373 outsize=2003 ok=1
+Cmd: preprocessCompute
+  insize=5813 outsize=5815 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5815 outsize=1508 ok=1
+Cmd: preprocess
+  insize=22663 outsize=473 ok=1
+Cmd: preprocessCompute
+  insize=1965 outsize=1967 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1967 outsize=1398 ok=1
+Cmd: preprocessCompute
+  insize=6337 outsize=6339 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6339 outsize=2207 ok=1
+Cmd: preprocessCompute
+  insize=5813 outsize=5815 ok=1
+Cmd: preprocess
+  insize=22663 outsize=473 ok=1
+Cmd: preprocessCompute
+  insize=1965 outsize=1967 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=22527 outsize=3354 kw=UNITY_PASS_FORWARDBASE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=22527 outsize=426 kw=UNITY_PASS_FORWARDBASE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocessCompute
+  insize=6371 outsize=6373 ok=1
+Cmd: preprocessCompute
+  insize=5813 outsize=5815 ok=1
+Cmd: preprocess
+  insize=22663 outsize=473 ok=1
+Cmd: preprocessCompute
+  insize=1965 outsize=1967 ok=1
+Cmd: preprocessCompute
+  insize=6371 outsize=6373 ok=1
+Cmd: preprocessCompute
+  insize=5813 outsize=5815 ok=1
+Cmd: preprocess
+  insize=22663 outsize=473 ok=1
+Cmd: preprocessCompute
+  insize=1965 outsize=1967 ok=1
+Cmd: preprocessCompute
+  insize=6371 outsize=6373 ok=1
+Cmd: preprocessCompute
+  insize=5813 outsize=5815 ok=1
+Cmd: preprocess
+  insize=22663 outsize=473 ok=1
+Cmd: preprocessCompute
+  insize=1965 outsize=1967 ok=1
